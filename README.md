@@ -1,5 +1,5 @@
 # New Project
-
+> Todo list built using Typescript, making use of type system and DOM interaction to add todo's to list and 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
