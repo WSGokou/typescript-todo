@@ -1,6 +1,11 @@
-# New Project
-> Todo list built using Typescript, making use of type system and DOM interaction to add todo's to list and 
+# Todo list
+> Todo list built using Typescript, making use of type system and DOM interaction to add todo's to list and stored in local storage to save options
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+## Technology Stack & Tools
+
+- Typescript
+- [Fleek]gokou-tstodo.on.fleek.co) (Website Deployment)
 
 ## Available Scripts
 
